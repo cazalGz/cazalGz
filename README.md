@@ -9,8 +9,30 @@ Hello word, I'm Gonzalo Cazal!!
 <a href="https://www.linkedin.com/in/gonzalo-gabriel-cazal-mancuello-443a23282/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cazalGz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-### 👦: About me
+### 👦 About me
 I'm a backend dev and data analyst.
+
+### 📁 My featured projects:
+<table>
+  <tr>
+    <td>
+      <div>
+        <h3>Medical API</h3>
+        <p>API for medical service.</p>
+        <a href="https://github.com/cazalGz/medical_repository">View Project</a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <h3>ForoHub</h3>
+        <p>API for library.</p>
+        <a href="https://github.com/cazalGz/ForoHubChallenge_Cazal">View Project</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
