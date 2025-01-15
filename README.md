@@ -9,6 +9,9 @@ Hello word, I'm Gonzalo Cazal!!
 <a href="https://www.linkedin.com/in/gonzalo-gabriel-cazal-mancuello-443a23282/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/cazalGz"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+### 👦: About me
+I'm a backend dev and data analyst.
+
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
